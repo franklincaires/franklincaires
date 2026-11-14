@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ░░░░░░░░░░░░░░░░░ BANNER ░░░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,45:00FF9C,100:FF0000&height=260&section=header&text=FRANKLIN%20CAIRES&fontSize=72&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=%E2%9A%A1%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20LANDING%20PAGES%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20UI%2FUX%20%E2%9A%A1&descSize=18&descAlignY=58&stroke=00FF9C&strokeWidth=1" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,45:FF0000,100:FF0000&height=260&section=header&text=FRANKLIN%20CAIRES&fontSize=72&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=%E2%9A%A1%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20LANDING%20PAGES%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20UI%2FUX%20%E2%9A%A1&descSize=18&descAlignY=58&stroke=00FF9C&strokeWidth=1" alt="Banner" />
 
 <!-- ░░░░░░░░░░░░░░░░░ BOOT SEQUENCE ░░░░░░░░░░░░░░░░░ -->
 <a href="https://github.com/franklincaires">

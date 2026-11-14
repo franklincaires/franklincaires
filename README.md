@@ -9,7 +9,7 @@
 </a>
 
 <!-- ░░░░░░░░░░░░░░░░░ TYPING ░░░░░░░░░░░░░░░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=1200&color=64FFDA&center=true&vCenter=true&width=760&height=50&lines=Desenvolvedor+Full+Stack;%26+Python+no+Back-end;Automa%C3%A7%C3%B5es+com+n8n;Interfaces+com+UI%2FUX+de+alto+n%C3%ADvel;Landing+Pages+que+convertem;Transformando+ideias+em+sistemas" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=760&height=50&lines=Desenvolvedor+Full+Stack;%26+Python+no+Back-end;Automa%C3%A7%C3%B5es+com+n8n;Interfaces+com+UI%2FUX+de+alto+n%C3%ADvel;Landing+Pages+que+convertem;Transformando+ideias+em+sistemas" alt="Typing animation" />
 
 <br/>
 

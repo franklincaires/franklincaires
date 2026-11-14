@@ -114,6 +114,6 @@ Gosto de unir código, design e automação para criar sistemas que funcionam be
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=8892B0&center=true&vCenter=true&width=700&height=30&lines=%22Code+is+poetry.+Automation+is+magic.%22;%3E+END+OF+TRANSMISSION+%E2%80%94+SYSTEM+STANDBY..." alt="Footer typing" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:64FFDA,55:00FF9C,100:0A192F&height=140&section=footer&reversal=true&text=%E2%9A%A1%20JARVIS%20MODE%20ACTIVE%20%E2%9A%A1&fontSize=20&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:64FFDA,55:FF0000,100:0A192F&height=140&section=footer&reversal=true&text=%E2%9A%A1%20JARVIS%20MODE%20ACTIVE%20%E2%9A%A1&fontSize=20&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" alt="Footer" />
 
 </div>
